@@ -4,8 +4,6 @@
 
 # Hi, I'm Labhansh Goyal 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=labhanshgoyal&color=378ADD&style=flat-square&label=Profile+views)
-
 **ML Engineer & Data Scientist** — I build end-to-end intelligent systems: from raw data and model training to deployed APIs and interactive interfaces. My focus is applied ML, NLP, LLM engineering, and deep learning.
 
 Final-year Electrical Engineering student at MITS Gwalior (2023–2027) with a Major Certification in Artificial Intelligence from IIT Ropar (coursework: Neural Networks & LLMs, Computer Vision, NLP, Data Science, Prompt Engineering). Open to internships and junior roles in Data Science, ML Engineering, or AI product teams — remote and hybrid welcome.
