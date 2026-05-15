@@ -29,27 +29,6 @@ Final-year Electrical Engineering student at MITS Gwalior (2023–2027) with a M
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=labhanshgoyal&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="Labhansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labhanshgoyal&layout=compact&hide_border=true&langs_count=6" height="160" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=labhanshgoyal&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=labhanshgoyal&theme=flat&no-frame=true&margin-w=8&column=6" alt="trophies" />
-</p>
-
----
-
 ## 🔨 Currently building
 
 **Speech Emotion Recognition (SER)** — In progress  
@@ -71,16 +50,6 @@ Priority-based route optimisation engine combining A* search and a Greedy heuris
 ### [Loan Approval Prediction Model](https://github.com/labhanshgoyal/Loan-Approval-Model)
 End-to-end binary classification pipeline benchmarking Logistic Regression, Random Forest, and XGBoost across a multi-feature applicant dataset. XGBoost yielded the highest predictive performance. Full preprocessing pipeline: null imputation, ordinal and one-hot encoding, stratified train/test splitting. Evaluated across Accuracy, Precision, Recall, F1-Score, and ROC-AUC.  
 `Python` · `XGBoost` · `Random Forest` · `Logistic Regression` · `Scikit-learn` · `ROC-AUC`
-
----
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labhanshgoyal/labhanshgoyal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labhanshgoyal/labhanshgoyal/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/labhanshgoyal/labhanshgoyal/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
