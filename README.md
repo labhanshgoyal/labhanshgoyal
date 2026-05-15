@@ -1,8 +1,52 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&width=600&lines=ML+Engineer+%7C+Data+Scientist;NLP+%7C+LLMs+%7C+Audio+ML;Building+real+systems%2C+not+notebooks;IIT+Ropar+AI+Certified;Open+to+internships+%26+remote+roles" alt="Typing SVG" />
+</a>
+
 # Hi, I'm Labhansh Goyal 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=labhanshgoyal&color=378ADD&style=flat-square&label=Profile+views)
 
 **ML Engineer & Data Scientist** — I build end-to-end intelligent systems: from raw data and model training to deployed APIs and interactive interfaces. My focus is applied ML, NLP, LLM engineering, and deep learning.
 
 Final-year Electrical Engineering student at MITS Gwalior (2023–2027) with a Major Certification in Artificial Intelligence from IIT Ropar (coursework: Neural Networks & LLMs, Computer Vision, NLP, Data Science, Prompt Engineering). Open to internships and junior roles in Data Science, ML Engineering, or AI product teams — remote and hybrid welcome.
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=labhanshgoyal&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="Labhansh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labhanshgoyal&layout=compact&hide_border=true&langs_count=6" height="160" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=labhanshgoyal&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=labhanshgoyal&theme=flat&no-frame=true&margin-w=8&column=6" alt="trophies" />
+</p>
 
 ---
 
@@ -30,16 +74,13 @@ End-to-end binary classification pipeline benchmarking Logistic Regression, Rand
 
 ---
 
-## 🛠 Skills
+## 🐍 Contribution Activity
 
-| Area | Tools |
-|---|---|
-| Languages | Python, C++, SQL |
-| ML / DL | TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, TA-Lib |
-| NLP & LLMs | NLP pipelines, LLM APIs, RAG, Transformers, Prompt Engineering |
-| Forecasting | Prophet, time-series modelling, confidence interval analysis |
-| Deployment & APIs | FastAPI, Streamlit, AWS, Pydantic, Requests |
-| Other | Git, GitHub, VS Code, Feature Engineering, Model Evaluation |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labhanshgoyal/labhanshgoyal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labhanshgoyal/labhanshgoyal/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/labhanshgoyal/labhanshgoyal/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
