@@ -39,6 +39,14 @@ Research project aligned with ISRO's focus on gesture-controlled intelligent int
 
 ## 🚀 Projects
 
+### [Speech Emotion Recognition](https://github.com/labhanshgoyal/CodeAlpha)
+CNN-based deep learning system classifying 8 emotions from raw audio using mel-spectrogram and MFCC feature extraction on the RAVDESS dataset. Full audio preprocessing pipeline with data augmentation and Librosa-based feature engineering. Deployed as a FastAPI inference endpoint.  
+`TensorFlow` · `CNN` · `Librosa` · `MFCC` · `Mel-Spectrogram` · `RAVDESS` · `FastAPI` · `Audio ML`
+
+### [Loan Approval Prediction Model](https://github.com/labhanshgoyal/Loan-Approval-Model)
+End-to-end binary classification pipeline benchmarking Logistic Regression, Random Forest, and XGBoost across a multi-feature applicant dataset. XGBoost yielded the highest predictive performance. Full preprocessing pipeline: null imputation, ordinal and one-hot encoding, stratified train/test splitting. Evaluated across Accuracy, Precision, Recall, F1-Score, and ROC-AUC.  
+`Python` · `XGBoost` · `Random Forest` · `Logistic Regression` · `Scikit-learn` · `ROC-AUC`
+
 ### [FinSights AI — Financial Analysis with LLMs, NLP & RAG](https://github.com/labhanshgoyal/FinSights-AI)
 Real-time stock market analytics platform built with Streamlit. Ingests live OHLCV data via Yahoo Finance API for any publicly traded equity (NSE, BSE, NYSE, NASDAQ). Trains a Random Forest classifier on four engineered technical indicators (daily return, 5-day SMA, 10-day SMA, rolling volatility) for next-day price direction prediction. Deploys Meta's Prophet for multi-horizon forecasting (7–90 days) with Plotly confidence interval visualisation.  
 `Python` · `NLP` · `LLMs` · `RAG` · `Random Forest` · `Prophet` · `Streamlit` · `Yahoo Finance API` · `Plotly`
@@ -46,14 +54,6 @@ Real-time stock market analytics platform built with Streamlit. Ingests live OHL
 ### [ParkRoute AI — Route Optimisation with A\*, Greedy & Heuristic Algorithms](https://github.com/labhanshgoyal/ParkRoute-AI)
 Priority-based route optimisation engine combining A* search and a Greedy heuristic hybrid, guaranteeing shortest-path discovery on weighted graphs of 300+ nodes. Custom admissible heuristic ensures optimality while reducing unnecessary node expansions versus exhaustive search. React frontend with Leaflet/Map API renders routes interactively on a real-world geographic canvas with dynamic re-routing on node selection.  
 `Python` · `A* Search` · `Graph Algorithms` · `React` · `Leaflet` · `Heuristic Design`
-
-### [Loan Approval Prediction Model](https://github.com/labhanshgoyal/Loan-Approval-Model)
-End-to-end binary classification pipeline benchmarking Logistic Regression, Random Forest, and XGBoost across a multi-feature applicant dataset. XGBoost yielded the highest predictive performance. Full preprocessing pipeline: null imputation, ordinal and one-hot encoding, stratified train/test splitting. Evaluated across Accuracy, Precision, Recall, F1-Score, and ROC-AUC.  
-`Python` · `XGBoost` · `Random Forest` · `Logistic Regression` · `Scikit-learn` · `ROC-AUC`
-
-### [Speech Emotion Recognition](https://github.com/labhanshgoyal/CodeAlpha)
-CNN-based deep learning system classifying 8 emotions from raw audio using mel-spectrogram and MFCC feature extraction on the RAVDESS dataset. Full audio preprocessing pipeline with data augmentation and Librosa-based feature engineering. Deployed as a FastAPI inference endpoint.  
-`TensorFlow` · `CNN` · `Librosa` · `MFCC` · `Mel-Spectrogram` · `RAVDESS` · `FastAPI` · `Audio ML`
 
 ---
 
