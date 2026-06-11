@@ -27,11 +27,13 @@ Final-year Electrical Engineering student at MITS Gwalior (2023–2027) with a M
 
 ---
 
-## 🔨 Currently building
+## 🔨 Currently Building
 
-**Speech Emotion Recognition (SER)** — In progress  
-CNN-based deep learning system classifying 8 emotions from raw audio using mel-spectrogram feature extraction on the RAVDESS dataset. Target: deploy as a FastAPI inference endpoint.  
-`TensorFlow` · `CNN` · `Librosa` · `Audio ML` · `RAVDESS`
+**EdgeGesture — Real-Time Contactless HCI for Space Missions** — In progress  
+Research project aligned with ISRO's focus on gesture-controlled intelligent interfaces for spacecraft environments. The system follows a modular pipeline: real-time frame acquisition → MediaPipe Holistic skeleton extraction → spatial-temporal feature encoding via GRU/LSTM → gesture-to-command mapping for spacecraft HMI. Targets low-power edge deployment with sub-80ms end-to-end latency. Trained and evaluated on the DHG and SHREC'17 datasets — covering 14–28 fine-grained dynamic gesture classes with depth, RGB-D, and 3D skeletal modalities.  
+`MediaPipe` · `GRU/LSTM` · `OpenCV` · `TensorFlow` · `Edge AI` · `DHG Dataset` · `SHREC'17`
+
+> 🛰️ *Research Theme: "Real-Time Contactless Human–Computer Interaction for Space Missions" — Gesture-controlled intelligent interfaces for spacecraft environments.*
 
 ---
 
@@ -48,6 +50,10 @@ Priority-based route optimisation engine combining A* search and a Greedy heuris
 ### [Loan Approval Prediction Model](https://github.com/labhanshgoyal/Loan-Approval-Model)
 End-to-end binary classification pipeline benchmarking Logistic Regression, Random Forest, and XGBoost across a multi-feature applicant dataset. XGBoost yielded the highest predictive performance. Full preprocessing pipeline: null imputation, ordinal and one-hot encoding, stratified train/test splitting. Evaluated across Accuracy, Precision, Recall, F1-Score, and ROC-AUC.  
 `Python` · `XGBoost` · `Random Forest` · `Logistic Regression` · `Scikit-learn` · `ROC-AUC`
+
+### [Speech Emotion Recognition](https://github.com/labhanshgoyal/CodeAlpha)
+CNN-based deep learning system classifying 8 emotions from raw audio using mel-spectrogram and MFCC feature extraction on the RAVDESS dataset. Full audio preprocessing pipeline with data augmentation and Librosa-based feature engineering. Deployed as a FastAPI inference endpoint.  
+`TensorFlow` · `CNN` · `Librosa` · `MFCC` · `Mel-Spectrogram` · `RAVDESS` · `FastAPI` · `Audio ML`
 
 ---
 
@@ -70,4 +76,4 @@ Always open to interesting ML problems, internship conversations, and collaborat
 
 ---
 
-*Open to internships · Remote-friendly · Data Science · ML Engineering · NLP · LLMs · Audio ML*
+*Open to internships · Remote-friendly · Data Science · ML Engineering · NLP · LLMs · Audio ML · Edge AI*
