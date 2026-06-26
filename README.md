@@ -10,7 +10,7 @@ Final-year Electrical Engineering student at MITS Gwalior (2023–2027) with a M
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -27,7 +27,7 @@ Final-year Electrical Engineering student at MITS Gwalior (2023–2027) with a M
 
 ---
 
-## 🔨 Currently Building
+## Currently Building
 
 **EdgeGesture — Real-Time Contactless HCI for Space Missions** — In progress  
 Research project aligned with ISRO's focus on gesture-controlled intelligent interfaces for spacecraft environments. The system follows a modular pipeline: real-time frame acquisition → MediaPipe Holistic skeleton extraction → spatial-temporal feature encoding via GRU/LSTM → gesture-to-command mapping for spacecraft HMI. Targets low-power edge deployment with sub-80ms end-to-end latency. Trained and evaluated on the DHG and SHREC'17 datasets — covering 14–28 fine-grained dynamic gesture classes with depth, RGB-D, and 3D skeletal modalities.  
