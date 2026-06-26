@@ -33,11 +33,11 @@ Final-year Electrical Engineering student at MITS Gwalior (2023–2027) with a M
 Research project aligned with ISRO's focus on gesture-controlled intelligent interfaces for spacecraft environments. The system follows a modular pipeline: real-time frame acquisition → MediaPipe Holistic skeleton extraction → spatial-temporal feature encoding via GRU/LSTM → gesture-to-command mapping for spacecraft HMI. Targets low-power edge deployment with sub-80ms end-to-end latency. Trained and evaluated on the DHG and SHREC'17 datasets — covering 14–28 fine-grained dynamic gesture classes with depth, RGB-D, and 3D skeletal modalities.  
 `MediaPipe` · `GRU/LSTM` · `OpenCV` · `TensorFlow` · `Edge AI` · `DHG Dataset` · `SHREC'17`
 
-> 🛰️ *Research Theme: "Real-Time Contactless Human–Computer Interaction for Space Missions" — Gesture-controlled intelligent interfaces for spacecraft environments.*
+> *Research Theme: "Real-Time Contactless Human–Computer Interaction for Space Missions" — Gesture-controlled intelligent interfaces for spacecraft environments.*
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [Speech Emotion Recognition](https://github.com/labhanshgoyal/CodeAlpha)
 CNN-based deep learning system classifying 8 emotions from raw audio using mel-spectrogram and MFCC feature extraction on the RAVDESS dataset. Full audio preprocessing pipeline with data augmentation and Librosa-based feature engineering. Deployed as a FastAPI inference endpoint.  
@@ -57,7 +57,7 @@ Priority-based route optimisation engine combining A* search and a Greedy heuris
 
 ---
 
-## 🎓 Background
+## Background
 
 - **B.Tech Electrical Engineering** — MITS Gwalior · CGPA 7.20 · 2023–2027
 - **Major Certification in Artificial Intelligence** — IIT Ropar · 2024–2025  
@@ -66,11 +66,11 @@ Priority-based route optimisation engine combining A* search and a Greedy heuris
 
 ---
 
-## 📬 Get in touch
+## Get in touch
 
-- 📧 labhanshgoyal465@gmail.com
-- 💼 [LinkedIn — Labhansh Goyal](https://www.linkedin.com/in/labhansh-goyal/)
-- 🐙 [github.com/labhanshgoyal](https://github.com/labhanshgoyal)
+- labhanshgoyal465@gmail.com
+- [LinkedIn — Labhansh Goyal](https://www.linkedin.com/in/labhansh-goyal/)
+- [github.com/labhanshgoyal](https://github.com/labhanshgoyal)
 
 Always open to interesting ML problems, internship conversations, and collaboration on applied AI projects.
 
