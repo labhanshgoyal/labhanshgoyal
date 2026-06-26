@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&width=600&lines=ML+Engineer+%7C+Data+Scientist;NLP+%7C+LLMs+%7C+Audio+ML;Building+real+systems%2C+not+notebooks;IIT+Ropar+AI+Certified;Open+to+internships+%26+remote+roles" alt="Typing SVG" />
 </a>
 
-# Hi, I'm Labhansh Goyal 👋
+# Hi, I'm Labhansh Goyal
 
 **ML Engineer & Data Scientist** — I build end-to-end intelligent systems: from raw data and model training to deployed APIs and interactive interfaces. My focus is applied ML, NLP, LLM engineering, and deep learning.
 
