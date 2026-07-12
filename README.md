@@ -75,7 +75,7 @@ Priority-based route optimisation engine combining A* search and a Greedy heuris
 
 ## Background
 
-- **B.Tech Electrical Engineering** — MITS Gwalior · CGPA 7.20 · 2023–2027
+- **B.Tech Electrical Engineering** — MITS Gwalior · 2023–2027
 - **Major Certification in Artificial Intelligence** — IIT Ropar · 2024–2025
   Neural Networks & LLMs · Computer Vision · NLP · Data Science Fundamentals · Prompt Programming
 - **ML Research Intern** — MANIT Bhopal · June 2026 · Real-Time Contactless HCI for Space Missions (ISRO)
