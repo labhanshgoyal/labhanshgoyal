@@ -33,8 +33,8 @@ Also working with: `XGBoost` · `Prophet` · `Librosa` · `MediaPipe` · `TextBl
 
 ## Currently Learning
 
-**Data Structures & Algorithms** — Sharpening core CS fundamentals in C++ for technical interviews and to write more efficient, production-grade ML systems.  
-`C++` · `Arrays & Strings` · `Trees & Graphs` · `Dynamic Programming` · `Problem Solving`
+**Data Structures & Algorithms** — Sharpening core CS fundamentals in Java for technical interviews and to write more efficient, production-grade ML systems.  
+`Java` · `Arrays & Strings` · `Trees & Graphs` · `Dynamic Programming` · `Problem Solving`
 
 ---
 
@@ -51,7 +51,7 @@ Also working with: `XGBoost` · `Prophet` · `Librosa` · `MediaPipe` · `TextBl
 
 ## Projects
 
-### EdgeGesture — Real-Time Contactless HCI for Space Missions
+### [EdgeGesture — Real-Time Contactless HCI for Space Missions](https://github.com/labhanshgoyal/EdgeGesture-HCI)
 Research project aligned with ISRO's focus on gesture-controlled intelligent interfaces for spacecraft environments. Architected a modular gesture-to-command pipeline achieving 91.7% accuracy and a 0.89 macro F1-score across 11 gesture classes. Designed a 12× space-specific data augmentation pipeline to train a lightweight 4MB CNN-GRU model in 25 epochs. Deployed for live, browser-based real-time inference via Streamlit and WebRTC, hosted on Hugging Face Spaces.
 `MediaPipe` · `CNN-GRU` · `OpenCV` · `TensorFlow` · `Edge AI` · `Streamlit` · `WebRTC`
 
