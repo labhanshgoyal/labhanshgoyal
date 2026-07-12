@@ -93,4 +93,4 @@ Always open to interesting ML problems, internship conversations, and collaborat
 
 ---
 
-*Open to internships · Remote-friendly · Data Science · ML Engineering · NLP · LLMs · Audio ML · Edge AI*
+*Open to internships · Related Roles · Data Science · ML Engineering · NLP · LLMs · Audio ML · Edge AI*
