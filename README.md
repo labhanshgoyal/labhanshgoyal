@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&width=600&lines=ML+Engineer+%7C+Data+Scientist;NLP+%7C+LLMs+%7C+RAG;ISRO+Research+Intern+%40+MANIT+Bhopal;IIT+Ropar+AI+Certified;Currently+Sharpening+DSA+Fundamentals;Open+to+Internships+%26+Related+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&width=600&lines=ML+Engineer+%7C+Data+Scientist;NLP+%7C+LLMs+%7C+RAG;ML+Research+Intern+%40+MANIT+Bhopal;IIT+Ropar+AI+Certified;Currently+Sharpening+DSA+Fundamentals;Open+to+Internships+%26+Related+Roles" alt="Typing SVG" />
 </a>
 
 # Hi, I'm Labhansh Goyal
