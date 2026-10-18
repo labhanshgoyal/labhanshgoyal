@@ -52,7 +52,7 @@ Also working with: `Transformers (RoBERTa)` · `XGBoost` · `Prophet` · `MediaP
 ## Projects
 
 ### [DeepLab — Semantic Segmentation on VHR Satellite Imagery](https://github.com/labhanshgoyal/DeepLab-VHR-Semantic-Segmentation)
-Semantic segmentation pipeline comparing four DeepLab architectures (V1, V2, V3, V3+) on the NWPU VHR-10 satellite dataset, reaching 48% mIoU across 10 object classes with a PyTorch ResNet-101 backbone. Built as a modular training framework with a CLI interface, mixed precision training (AMP), custom BCE+Dice and Focal loss functions, and ONNX export for deployment.
+Semantic segmentation pipeline comparing four DeepLab architectures (V1, V2, V3, V3+) on the NWPU VHR-10 satellite dataset, reaching 49.5% mIoU across 10 object classes with a PyTorch ResNet-101 backbone. Built as a modular training framework with a CLI interface, mixed precision training (AMP), custom BCE+Dice and Focal loss functions, and ONNX export for deployment.
 `PyTorch` · `DeepLab` · `ResNet-101` · `Semantic Segmentation` · `AMP` · `ONNX` · `Computer Vision`
 
 ### [Safety Alignment Classifier — Adversarially Robust Toxicity Detection](https://github.com/labhanshgoyal/Safety-Alignment-Classifier)
